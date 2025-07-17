@@ -6,7 +6,7 @@
 /public/storage
 /storage/*.key
 /storage/pail
-/storage/*
+/storage/mysql
 /vendor
 .env
 .env.backup
