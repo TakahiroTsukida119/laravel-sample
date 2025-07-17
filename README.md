@@ -1,4 +1,6 @@
 # laravel sample
+PHP: 8.4
+Laravel: 12.20.0
 
 ## 構築手順
 ```shell
