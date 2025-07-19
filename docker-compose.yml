@@ -19,8 +19,6 @@ services:
     ports:
       - "9000:9000"
     tty: true
-    env_file:
-      - .env
     depends_on:
       - mysql
     extra_hosts:
